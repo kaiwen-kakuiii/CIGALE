@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Produced with astropy.io.votable version 2.0.12
+     http://www.astropy.org/ -->
+<VOTABLE version="1.3" xmlns="http://www.ivoa.net/xml/VOTable/v1.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ivoa.net/xml/VOTable/v1.3">
+ <RESOURCE type="results">
+  <TABLE>
+   <FIELD ID="id" arraysize="1" datatype="char" name="id"/>
+   <FIELD ID="redshift" datatype="float" name="redshift"/>
+   <FIELD ID="FUV" datatype="float" name="FUV"/>
+   <FIELD ID="FUV_err" datatype="float" name="FUV_err"/>
+   <FIELD ID="NUV" datatype="float" name="NUV"/>
+   <FIELD ID="NUV_err" datatype="float" name="NUV_err"/>
+   <FIELD ID="u_prime" datatype="float" name="u_prime"/>
+   <FIELD ID="u_prime_err" datatype="float" name="u_prime_err"/>
+   <FIELD ID="g_prime" datatype="float" name="g_prime"/>
+   <FIELD ID="g_prime_err" datatype="float" name="g_prime_err"/>
+   <FIELD ID="r_prime" datatype="float" name="r_prime"/>
+   <FIELD ID="r_prime_err" datatype="float" name="r_prime_err"/>
+   <FIELD ID="i_prime" datatype="float" name="i_prime"/>
+   <FIELD ID="i_prime_err" datatype="float" name="i_prime_err"/>
+   <FIELD ID="z_prime" datatype="float" name="z_prime"/>
+   <FIELD ID="z_prime_err" datatype="float" name="z_prime_err"/>
+   <FIELD ID="ukidss_j" datatype="float" name="ukidss_j"/>
+   <FIELD ID="ukidss_j_err" datatype="float" name="ukidss_j_err"/>
+   <FIELD ID="ukidss_h" datatype="float" name="ukidss_h"/>
+   <FIELD ID="ukidss_h_err" datatype="float" name="ukidss_h_err"/>
+   <FIELD ID="ukidss_k" datatype="float" name="ukidss_k"/>
+   <FIELD ID="ukidss_k_err" datatype="float" name="ukidss_k_err"/>
+   <FIELD ID="WISE1" datatype="float" name="WISE1"/>
+   <FIELD ID="WISE1_err" datatype="float" name="WISE1_err"/>
+   <FIELD ID="IRAC1" datatype="float" name="IRAC1"/>
+   <FIELD ID="IRAC1_err" datatype="float" name="IRAC1_err"/>
+   <FIELD ID="WISE2" datatype="float" name="WISE2"/>
+   <FIELD ID="WISE2_err" datatype="float" name="WISE2_err"/>
+   <FIELD ID="IRAC3" datatype="float" name="IRAC3"/>
+   <FIELD ID="IRAC3_err" datatype="float" name="IRAC3_err"/>
+   <FIELD ID="IRAC4" datatype="float" name="IRAC4"/>
+   <FIELD ID="IRAC4_err" datatype="float" name="IRAC4_err"/>
+   <FIELD ID="WISE3" datatype="float" name="WISE3"/>
+   <FIELD ID="WISE3_err" datatype="float" name="WISE3_err"/>
+   <FIELD ID="MIPS1" datatype="float" name="MIPS1"/>
+   <FIELD ID="MIPS1_err" datatype="float" name="MIPS1_err"/>
+   <FIELD ID="MIPS2" datatype="float" name="MIPS2"/>
+   <FIELD ID="MIPS2_err" datatype="float" name="MIPS2_err"/>
+   <FIELD ID="MIPS3" datatype="float" name="MIPS3"/>
+   <FIELD ID="MIPS3_err" datatype="float" name="MIPS3_err"/>
+   <DATA>
+    <TABLEDATA>
+     <TR>
+      <TD>m</TD>
+      <TD>0.823</TD>
+      <TD>0.0010899999</TD>
+      <TD>0.00021799999</TD>
+      <TD>0.0027200002</TD>
+      <TD>0.000544</TD>
+      <TD>0.00396</TD>
+      <TD>0.0010500001</TD>
+      <TD>0.00652</TD>
+      <TD>0.001304</TD>
+      <TD>0.01024</TD>
+      <TD>0.002048</TD>
+      <TD>0.00867375</TD>
+      <TD>0.00173475</TD>
+      <TD>0.01117625</TD>
+      <TD>0.00223525</TD>
+      <TD>0.0127</TD>
+      <TD>0.0029</TD>
+      <TD>0.017</TD>
+      <TD>0.0042000003</TD>
+      <TD>0.016600002</TD>
+      <TD>0.0056</TD>
+      <TD>0.044466667</TD>
+      <TD>0.008893333</TD>
+      <TD>0.0465</TD>
+      <TD>0.0093</TD>
+      <TD>0.05526</TD>
+      <TD>0.011051999</TD>
+      <TD>0.045</TD>
+      <TD>0.009000001</TD>
+      <TD>0.08360001</TD>
+      <TD>0.01672</TD>
+      <TD>0.308</TD>
+      <TD>0.10666667</TD>
+      <TD>0.59900004</TD>
+      <TD>0.1198</TD>
+      <TD>4.9</TD>
+      <TD>0.98</TD>
+      <TD>29.866667</TD>
+      <TD>10.426666</TD>
+     </TR>
+    </TABLEDATA>
+   </DATA>
+  </TABLE>
+ </RESOURCE>
+</VOTABLE>
