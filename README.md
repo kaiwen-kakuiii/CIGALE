@@ -3,10 +3,10 @@ CIGALE utlizes a fixed grid structure for model parameters. All the model parame
 
 Description:
 
-  1  CIGALE_How_to is the official tutorial which I followed mostly.
-  1. m87_new.vot is the input photometry file.
-  2. pcigale.ini is the model configuration file.
-  3. results.fits is the best run physical parameters.
+  1. CIGALE_How_to is the official tutorial which I followed mostly.
+  2. m87_new.vot is the input photometry file.
+  3. pcigale.ini is the model configuration file.
+  4. results.fits is the best run physical parameters.
 
 Note:
    If you ran too many models (too many parameter combinations), your process may be killed in several seconds or you may encounter bus error (core dumped). All of these indicates you ran out of memory (physical memory). My suggestion is keep an eye on the KiB Swap (it is actually the space in your driver, not in memory), if its usage is rapidly increasing: you should increase physical memory OR use less model parameters. 
