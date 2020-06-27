@@ -2,7 +2,6 @@
 CIGALE utlizes a fixed grid structure for model parameters. All the model parameters will only be computed once and stored in the memory (Thus it requires more memory than Prospector). Then it will use different parameter combinations to reconstruct model spectrum and calculate its corresponding Chi-square and probobality weight. The best-fit model is extracted from the likelihood distribution (not necessary the minimum Chi-square one).
 
 Description:
-
   1. CIGALE_How_to is the official tutorial which I followed mostly.
   2. m87_new.vot is the input photometry file.
   3. pcigale.ini is the model configuration file.
